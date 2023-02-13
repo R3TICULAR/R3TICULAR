@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R3TICULAR
 - 👀 I’m an avid car enthusiast
-- 🌱 I’m currently learning AWS and C++
+- 🌱 I’m currently advancing front end development skillset
 - 💞️ I’m looking to collaborate on any projects that build experience with software engineering
 - 📫 I can be reached at: ccecilhunter@aol.com
 
